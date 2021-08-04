@@ -1,0 +1,11 @@
+main.c:96:5:main	24	static
+main.c:168:6:SystemClock_Config	88	static
+main.c:208:13:MX_ADC1_Init	24	static
+main.c:258:13:MX_USART1_UART_Init	8	static
+main.c:291:13:MX_USART2_UART_Init	8	static
+main.c:324:13:MX_GPIO_Init	40	static
+main.c:358:6:DFR_Send	24	static
+main.c:369:6:DFR_NEXT	8	static
+main.c:373:7:DFR_VOL	16	static
+main.c:377:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:391:6:Error_Handler	4	static
